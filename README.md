@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ved
-- 👀 I’m interested in React-native
+- 👀 React-native Dev
 
 <!---
 Ved-evitpl/Ved-evitpl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
